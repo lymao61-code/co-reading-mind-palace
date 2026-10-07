@@ -1,0 +1,6 @@
+{
+  "name": "Co-Reading Mind Palace",
+  "description": "A daily reading companion AI that discusses your reading and saves summaries to your Mind Palace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
